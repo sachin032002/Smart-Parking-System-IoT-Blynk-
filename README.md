@@ -1,7 +1,7 @@
 # Smart-Parking-System-IoT-Blynk-
 An IoT-based Smart Parking System built using ESP8266 (NodeMCU) that automates vehicle entry/exit, monitors parking availability in real-time, and provides remote control via the Blynk Cloud dashboard.
 
-📌 Features
+📌 Features 
 🚦 Automatic Gate Control using IR sensors and servo motor
 📊 Real-time Slot Monitoring on LCD and Blynk dashboard
 📱 Remote Gate Control via Blynk mobile/web app
